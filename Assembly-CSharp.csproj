@@ -47,7 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CloudCrafter.cs" />
-     <Compile Include="Assets\Slingshot.cs" />
+     <Compile Include="Assets\Scripts\FollowCam.cs" />
+     <Compile Include="Assets\Scripts\Slingshot.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Users/bfcat_000/Desktop/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.8/Standalone/UnityEngine.UI.dll</HintPath>
  </Reference>
